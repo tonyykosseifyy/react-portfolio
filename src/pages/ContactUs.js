@@ -76,8 +76,6 @@ function ContactUs() {
   return (
     <ThemeProvider theme={theme}>
       <Fade cascade>
-
-      
       <div className='contact contact_container'>
         <div className='contact_headings'>
           <h1>Let's talk</h1>
@@ -120,23 +118,14 @@ function ContactUs() {
               <div style={{backgroundColor: "rgb(0,119,181)", position:"relative"}}>
                 <img src={require("../components/assets/linkedin.png")} alt="linkedin"/>
                 <p>Linkedin</p>
-                <a target="_blank" className="link" href="https://www.linkedin.com/in/tony-kosseify-17aa191b7/" alt="linkedin"/>
+                <a target="_blank" className="link" href="https://www.linkedin.com/in/tonyykosseifyy" alt="linkedin"/>
               </div>
               <div style={{backgroundColor: "rgb(76,175,80)", position:"relative"}}>
                 <img src={require("../components/assets/whatsapp.png")} alt="whatsapp"/>
                 <p>Whatsapp</p>
                 <a target="_blank" className="link" href="https://wa.me/96103018765" alt="wpp"/>
               </div>
-              <div style={{backgroundColor: "rgb(92,107,192)", position:"relative"}}>
-                <img style={{width:"35px"}} src={require("../components/assets/discord.png")} alt="discord"/>
-                <p>Discord</p>
-                <a target="_blank" className="link" href="https://discordapp.com/users/788481107837976616" alt="discord"/>
-              </div>
-              <div style={{backgroundColor: "rgb(3,155,229)", position:"relative"}}>
-                <img src={require("../components/assets/telegram.png")} alt="Telegram"/>
-                <p>Telegram</p>
-                <a target="_blank" className='link' href="https://t.me/tonyykosseifyy" alt="telegram" />
-              </div>
+
               </Fade>
           </div>
         </div>

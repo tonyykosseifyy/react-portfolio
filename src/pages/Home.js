@@ -25,7 +25,7 @@ const Home = () => {
         </div>
         <div className='linkedin-holder holder'>
           <img src={require("../components/assets/linkedin.png")} alt="linkedin" />
-          <a target="_blank" className='link' href='https://www.linkedin.com/in/tonyy-kosseifyy/' alt="linkedin" />
+          <a target="_blank" className='link' href='https://www.linkedin.com/in/tonyykosseifyy' alt="linkedin" />
         </div>
       </div>
     </div>
