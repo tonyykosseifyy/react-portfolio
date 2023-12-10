@@ -95,7 +95,7 @@ function About() {
                   <div className='about_me_services_containers_list'>
                   {frontend_skills.map((skill, index) => (
                     <div key={index}>
-                      <img src={`./assets/frontend/${skill}.png`} alt={skill}/>
+                      <img src={require(`../components/assets/assets/frontend/${skill}.png`)} alt={skill}/>
                     </div>
                   ))}
                   </div>
@@ -111,7 +111,7 @@ function About() {
                   <div className='about_me_services_containers_list'>
                   {backend_skills.map((skill, index) => (
                     <div key={index}>
-                      <img src={`./assets/backend/${skill}.png`} alt={skill}/>
+                      <img src={require(`../components/assets/assets/backend/${skill}.png`)} alt={skill}/>
                     </div>
                   ))}
                   </div>
@@ -127,7 +127,7 @@ function About() {
                 <div className='about_me_services_containers_list'>
                 {native_skills.map((skill, index) => (
                   <div key={index}>
-                    <img src={`./assets/native/${skill}.png`} alt={skill}/>
+                    <img src={require(`../components/assets/assets/native/${skill}.png`)} alt={skill}/>
                   </div>
                 ))}
                 </div>
