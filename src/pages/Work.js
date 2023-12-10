@@ -33,13 +33,13 @@ function Work() {
             </div>
           </div>
           
-          <div className='project'>
+          {/*<div className='project'>
             <img src={require("../components/assets/amazon-clone.png")} alt="Amazon" />
             <div>
               <a href="http://react-auth-b5a1f.web.app" target="_blank">check website</a>
               <a href="https://github.com/tonyykosseifyy/amazon-clone" target="_blank">check github</a>
             </div>
-          </div>
+          </div>*/}
           
           <div className='project'>
             <img src={require("../components/assets/tesla-clone.png")} alt="Tesla" />
@@ -49,13 +49,13 @@ function Work() {
             </div>
           </div>
 
-          <div className='project'>
+          {/*<div className='project'>
             <img src={require("../components/assets/coffee-shop.png")} alt="Coffee-shop" />
             <div>
               <a href="https://coffee-shop-clone-3968d.web.app/" target="_blank">check website</a>
               <a href="https://github.com/tonyykosseifyy/coffee-shop-clone" target="_blank">check github</a>
             </div>
-          </div>
+        </div>*/}
 
           <div className='project'>
             <img src={require("../components/assets/easy-bank.png")} alt="easy-bank" />
