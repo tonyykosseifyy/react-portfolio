@@ -137,8 +137,6 @@ function About() {
             </div>
 
           </div>
-
-
         </Fade>
 
       </div>

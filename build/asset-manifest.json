@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.336e6ffc.css",
-    "main.js": "/react-portfolio/static/js/main.143d83ee.js",
+    "main.js": "/react-portfolio/static/js/main.7b30526f.js",
     "static/media/coffee-shop.png": "/react-portfolio/static/media/coffee-shop.a540f47ed429582b23db.png",
     "static/media/netflix.png": "/react-portfolio/static/media/netflix.e963dc9b64aafdcb864e.png",
     "static/media/amazon-clone.png": "/react-portfolio/static/media/amazon-clone.8c58940a9b7f79e5dcb7.png",
@@ -12,12 +12,13 @@
     "static/media/easy-bank.png": "/react-portfolio/static/media/easy-bank.fa30ec082e5595d52668.png",
     "static/media/tip-calculator.png": "/react-portfolio/static/media/tip-calculator.f1d80a870b66b8430fa4.png",
     "static/media/metamed1.png": "/react-portfolio/static/media/metamed1.ad1ae66631247ab4da68.png",
+    "static/media/strapi.png": "/react-portfolio/static/media/strapi.69276111fd6cdf88ef3d.png",
     "index.html": "/react-portfolio/index.html",
     "main.336e6ffc.css.map": "/react-portfolio/static/css/main.336e6ffc.css.map",
-    "main.143d83ee.js.map": "/react-portfolio/static/js/main.143d83ee.js.map"
+    "main.7b30526f.js.map": "/react-portfolio/static/js/main.7b30526f.js.map"
   },
   "entrypoints": [
     "static/css/main.336e6ffc.css",
-    "static/js/main.143d83ee.js"
+    "static/js/main.7b30526f.js"
   ]
 }
