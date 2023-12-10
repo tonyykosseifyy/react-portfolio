@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://tonyykosseifyy.github.io/react-portfolio",
+  "homepage": "https://tonyykosseifyy.github.io/react-portfolio",
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
