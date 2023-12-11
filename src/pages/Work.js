@@ -6,6 +6,8 @@ const skills = [
   "html5", "css3","sass","javascript", "React", "Redux","axios", "Material Ui","Node js",
   "MongoDb", "Mongoose", "express", "React Native", "Firebase"
 ]
+//ecommerce-page
+// mea-clone 
 
 function Work() {
   return (

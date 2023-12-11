@@ -65,7 +65,7 @@ function About() {
 
   return (
     <div className='about'>
-      <div className='about_me' ref={containerRef}>
+      <div className='about_me' >
         <Fade bottom cascade>
           <div className='about_me_headings'>
             <h1 className='heading'>Who Am I?</h1>
@@ -77,7 +77,7 @@ function About() {
             </div>
           </div>
           
-          <div className='about_me_headings'>
+          <div className='about_me_headings' ref={containerRef}>
             <div className='about_me_services_headings'>
               <h1>What I can do?</h1>
               <h2>My services</h2>
