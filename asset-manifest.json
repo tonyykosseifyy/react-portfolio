@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.336e6ffc.css",
-    "main.js": "/react-portfolio/static/js/main.ae531a99.js",
+    "main.css": "/react-portfolio/static/css/main.798e258b.css",
+    "main.js": "/react-portfolio/static/js/main.c0b16e31.js",
     "static/media/coffee-shop.png": "/react-portfolio/static/media/coffee-shop.a540f47ed429582b23db.png",
     "static/media/netflix.png": "/react-portfolio/static/media/netflix.e963dc9b64aafdcb864e.png",
     "static/media/amazon-clone.png": "/react-portfolio/static/media/amazon-clone.8c58940a9b7f79e5dcb7.png",
@@ -14,11 +14,11 @@
     "static/media/metamed1.png": "/react-portfolio/static/media/metamed1.ad1ae66631247ab4da68.png",
     "static/media/strapi.png": "/react-portfolio/static/media/strapi.69276111fd6cdf88ef3d.png",
     "index.html": "/react-portfolio/index.html",
-    "main.336e6ffc.css.map": "/react-portfolio/static/css/main.336e6ffc.css.map",
-    "main.ae531a99.js.map": "/react-portfolio/static/js/main.ae531a99.js.map"
+    "main.798e258b.css.map": "/react-portfolio/static/css/main.798e258b.css.map",
+    "main.c0b16e31.js.map": "/react-portfolio/static/js/main.c0b16e31.js.map"
   },
   "entrypoints": [
-    "static/css/main.336e6ffc.css",
-    "static/js/main.ae531a99.js"
+    "static/css/main.798e258b.css",
+    "static/js/main.c0b16e31.js"
   ]
 }
