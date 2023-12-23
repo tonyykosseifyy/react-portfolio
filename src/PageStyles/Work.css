@@ -21,13 +21,14 @@
     color: rgb(153,153,153);
     display: block ;
     cursor: pointer;
-    padding: 6px ;
+    padding: 3px 6px;
     text-transform: uppercase;
     font-weight: 600;
-    box-shadow: 1px 1px 4px black;
-    margin : 10px 0px ;
+    box-shadow: 1px 1px 5px black;
+    margin : 7px 0px ;
     position: relative;
     margin-right: 15px ;
+    font-size: 13px;
 }
 .work_skills > div > span {
     background-color: transparent;
@@ -61,8 +62,8 @@
 
 .work_projects {
     margin-top: 40px ;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .project {
@@ -70,57 +71,93 @@
     position: relative;
     height: 200px ;
     width: 350px ;
-    margin: 20px 0 ;
+    margin: 20px ;
+    transition: .3s ease-out ;
 }
 
 .project img {
     object-fit: cover;
     height: 100%;
     width: 100%;
+    transition: .3s ease-out;
 }
+
+
 .project > div {
     position: absolute;
     top: 0 ;
     left: 0 ;
     right: 0 ;
-    height: 0px ;
-    background-color: black ;
-    opacity: .75 ;
-    transition: .3s ease-out;
+    bottom: 0;
+    opacity: 0;
+    background-color: rgba(0,0,0,.7) ;
     display: flex ;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     overflow: hidden;
-    height: 0px ;
+    transition: .3s ease-out;
 }
+.project:hover {
+    box-shadow: 1px 1px 6px black;
+    transform: scale(1.03);
+}
+
+.project:hover > div {
+    opacity: 1;
+}
+
+.project > div > a:nth-child(2) {
+    margin-left: 15px ;
+}
+
 .project > div.mobile {
     position: static;
     opacity: 1 ;
     height: 100% ;
 }
 
-.project:hover > div {
-    height: 100% ;
-}
 .project a {
-    display: block ;
-    background-color: black ;
-    padding: 10px ;
-    transition: width .3s ease-out ;
     z-index: 2 ;
-    color: rgb(153,153,153);
-    text-transform: uppercase;
-    font-weight: 600;
     position: relative;
-    border-radius: 10px ;
-    color: white ;
-    text-decoration: none;
-    border: 1px solid white ;
     transition: .3s ease-out ;
+    transform: scale(0);
+    transform-origin: center;
+    text-decoration: none;
+    color: white ;
 }
-.project a:hover {
-    transform: scale(1.08);
+
+.project a:nth-child(2) {
+    transition-delay: .1s ;
 }
+
+.project:hover a {
+    transform: scale(1);
+}
+
+.project a:hover, .project a:hover:nth-child(2) {
+    transition-delay: .0s !important ;
+    transform: scale(1.2);
+}
+
+.project a::before {
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    left: 3px ;
+    width: 15px ;
+    height: 1px ;
+    background-color: white ;
+    transform-origin: left;
+    transform: scaleX(0) ;
+    transition: transform .3s ease-out ;
+    opacity: 0;
+}
+
+.project a:hover::before {
+    transform: scaleX(1);
+    opacity: 1;
+} 
+
 
 @media only screen and (max-width: 1140px) {
     .work {
