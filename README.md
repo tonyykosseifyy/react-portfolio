@@ -1,4 +1,4 @@
-<img width="1440" alt="Screenshot 2024-01-09 at 3 18 40 PM" src="https://github.com/tonyykosseifyy/react-portfolio/assets/68602228/9ecea23d-72e1-4f15-8dea-544f57fcc2eb"># Portfolio Website
+# Portfolio Website
 
 ## Live Demo
 
@@ -47,7 +47,8 @@ This runs the app in the development mode. Open [http://localhost:3000](http://l
 
 ### Home
 
-![Home Page Image](https://via.placeholder.com/600x400)
+![Home Page Image]<img width="1440" alt="Screenshot 2024-01-09 at 3 18 22 PM" src="https://github.com/tonyykosseifyy/react-portfolio/assets/68602228/8b433fbf-5d6a-43db-b2e6-0a8397061e5d">
+
 
 - This is the landing page of the portfolio.
 - It features a welcoming message and a brief introduction.
