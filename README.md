@@ -21,6 +21,7 @@ Before running this project, you need to have Node.js and npm (Node Package Mana
 
 To get a development environment running, follow these simple steps:
 
+
 1. Clone the repository to your local machine:
 ```
 git clone https://github.com/tonyykosseifyy/portfolio-website.git
@@ -47,7 +48,7 @@ This runs the app in the development mode. Open [http://localhost:3000](http://l
 
 ### Home
 
-![Home Page Image]<img width="1440" alt="Screenshot 2024-01-09 at 3 18 22 PM" src="https://github.com/tonyykosseifyy/react-portfolio/assets/68602228/8b433fbf-5d6a-43db-b2e6-0a8397061e5d">
+<img width="1431" alt="Screenshot 2024-01-09 at 3 18 22 PM (1)" src="https://github.com/tonyykosseifyy/react-portfolio/assets/68602228/be267b7e-63b6-440f-a9e3-1b88a13b0cc1">
 
 
 - This is the landing page of the portfolio.
