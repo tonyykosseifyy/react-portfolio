@@ -91,4 +91,4 @@ This runs the app in the development mode. Open [http://localhost:3000](http://l
 
 ## Contact
 
-Tony Kosseify - [LinkedIn](https://www.linkedin.com/in/tonyykosseifyy) - tonyykosseifyy@gmail.com
+Tony Kosseify - <a href="https://www.linkedin.com/in/tonyykosseifyy" target="_blank">LinkedIn</a> - tonyykosseifyy@gmail.com
