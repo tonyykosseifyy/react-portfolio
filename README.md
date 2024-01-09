@@ -57,30 +57,29 @@ This runs the app in the development mode. Open [http://localhost:3000](http://l
 
 ### About Me
 
-<img src="https://github.com/tonyykosseifyy/react-portfolio/assets/68602228/7f7ba7e8-10ca-4f70-9eb5-06e8b6deedfa" alt="Screenshot 2024-01-09 at 4 57 01 PM" width="45%" /> <img src="https://github.com/tonyykosseifyy/react-portfolio/assets/68602228/0c0dfe57-db14-4c8d-90f9-7dd4ca6b04f5" alt="Screenshot 2024-01-09 at 4 57 10 PM" width="45%" />
+<img src="https://github.com/tonyykosseifyy/react-portfolio/assets/68602228/7f7ba7e8-10ca-4f70-9eb5-06e8b6deedfa" alt="Screenshot 2024-01-09 at 4 57 01 PM" width="49%" /> <img src="https://github.com/tonyykosseifyy/react-portfolio/assets/68602228/0c0dfe57-db14-4c8d-90f9-7dd4ca6b04f5" alt="Screenshot 2024-01-09 at 4 57 10 PM" width="50%" />
 
 
 - This page provides a detailed overview of my professional background,
- skills, and achievements.
-- It includes my educational qualifications, technical skillset, and any other relevant information.
+ skills and technologies I use.
+- It includes my technical skillset, and any other relevant information.
 
 ### Projects
 
-![Projects Page Image](https://via.placeholder.com/600x400)
+<img width="1440" alt="Screenshot 2024-01-09 at 6 03 15 PM (1)" src="https://github.com/tonyykosseifyy/react-portfolio/assets/68602228/d03e5626-cf37-49ad-8293-b9dfb14c136f">
 
 - Here, you can find a showcase of my work.
-- Each project is presented with a brief description, technologies used, and links to the live site and the source code (if applicable).
+- Each project is presented with a 2 links one for the live site (if applicable) and the other for the source code.
 
 ### Contact Us
 
-![Uploading Screenshot 2024-01-09 at 3.18.40 PM.png…]()
+<img width="1439" alt="Screenshot 2024-01-09 at 6 07 21 PM" src="https://github.com/tonyykosseifyy/react-portfolio/assets/68602228/5ce708d7-3167-496d-9be2-86534bcd1857">
 
 - This page allows visitors to reach out to me.
 - It includes a contact form as well as my professional contact details and links to my social media profiles.
 
 
-## Technologies Used
-
+## Built With
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -88,11 +87,6 @@ This runs the app in the development mode. Open [http://localhost:3000](http://l
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-
-## Built With
-
-- [React](https://reactjs.org/) - The web framework used
-- [npm](https://www.npmjs.com/) - Dependency Management
 
 
 
