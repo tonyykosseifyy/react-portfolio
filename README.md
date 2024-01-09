@@ -1,4 +1,4 @@
-# Portfolio Website
+<img width="1440" alt="Screenshot 2024-01-09 at 3 18 40 PM" src="https://github.com/tonyykosseifyy/react-portfolio/assets/68602228/9ecea23d-72e1-4f15-8dea-544f57fcc2eb"># Portfolio Website
 
 ## Live Demo
 
@@ -12,7 +12,8 @@ This portfolio website is a React application designed to showcase my personal a
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+### Prerequisites 
+
 
 Before running this project, you need to have Node.js and npm (Node Package Manager) installed on your computer. You can download them from [Node.js website](https://nodejs.org/).
 
@@ -69,7 +70,7 @@ This runs the app in the development mode. Open [http://localhost:3000](http://l
 
 ### Contact Us
 
-![Contact Us Page Image](https://via.placeholder.com/600x400)
+![Uploading Screenshot 2024-01-09 at 3.18.40 PM.png…]()
 
 - This page allows visitors to reach out to me.
 - It includes a contact form as well as my professional contact details and links to my social media profiles.
