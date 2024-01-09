@@ -89,4 +89,6 @@ This runs the app in the development mode. Open [http://localhost:3000](http://l
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
 
+## Contact
 
+Tony Kosseify - [LinkedIn]([https://www.linkedin.com/in/tonyykosseifyy/]) - tonyykosseifyy@gmail.com
