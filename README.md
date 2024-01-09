@@ -28,6 +28,7 @@ git clone https://github.com/tonyykosseifyy/portfolio-website.git
 ```
 
 2. Navigate to the project directory:
+
 ```
 cd portfolio-website
 ```
@@ -56,11 +57,12 @@ This runs the app in the development mode. Open [http://localhost:3000](http://l
 
 ### About Me
 
-![About Me Image 1](https://via.placeholder.com/600x400)
+<img width="1434" alt="Screenshot 2024-01-09 at 4 57 01 PM" src="https://github.com/tonyykosseifyy/react-portfolio/assets/68602228/7f7ba7e8-10ca-4f70-9eb5-06e8b6deedfa">
 
-![About Me Image 2](https://via.placeholder.com/600x400)
+<img width="1440" alt="Screenshot 2024-01-09 at 4 57 10 PM" src="https://github.com/tonyykosseifyy/react-portfolio/assets/68602228/0c0dfe57-db14-4c8d-90f9-7dd4ca6b04f5">
 
-- This page provides a detailed overview of my professional background, skills, and achievements.
+- This page provides a detailed overview of my professional background,
+ skills, and achievements.
 - It includes my educational qualifications, technical skillset, and any other relevant information.
 
 ### Projects
