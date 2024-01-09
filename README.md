@@ -1,5 +1,9 @@
 # Portfolio Website
 
+## Live Demo
+
+Check out the live demo of my portfolio website here: [Live Website](https://tonyykosseifyy.github.io/react-portfolio)
+
 ## Overview
 
 This portfolio website is a React application designed to showcase my personal and professional information. It's structured into four main pages: Home, About Me, Projects, and Contact Us.
@@ -17,20 +21,24 @@ Before running this project, you need to have Node.js and npm (Node Package Mana
 To get a development environment running, follow these simple steps:
 
 1. Clone the repository to your local machine:
+```
 git clone https://github.com/tonyykosseifyy/portfolio-website.git
-
+```
 
 2. Navigate to the project directory:
+```
 cd portfolio-website
-
+```
 
 3. Install the required dependencies:
+```
 npm install
-
+```
 
 4. Run the application:
+```
 npm start
-
+```
 
 This runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -66,19 +74,21 @@ This runs the app in the development mode. Open [http://localhost:3000](http://l
 - This page allows visitors to reach out to me.
 - It includes a contact form as well as my professional contact details and links to my social media profiles.
 
+
+## Technologies Used
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+
 ## Built With
 
 - [React](https://reactjs.org/) - The web framework used
 - [npm](https://www.npmjs.com/) - Dependency Management
-
-## Authors
-
-- **Your Name** - *Initial work* - [yourusername](https://github.com/yourusername)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 
 
 
